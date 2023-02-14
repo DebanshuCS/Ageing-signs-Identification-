@@ -14,6 +14,6 @@ This model will work on any platform but we used Jupyter Notebook for the develo
 
 **I used CodeOcean to have reproducible run of this project**
 
-# COURSE OF ACTION
+## COURSE OF ACTION
 The development of this model required lots of information and knowledge about image processing and also about training and testing of the model. Hence the knowledge acquired from the Artificial Intelligence course proved to be very useful during the course of this entire project. Machine Learning knowledge also played a great role in the successful running of this model.
 First, a roadmap of the plan of action was designed. Then datasets were found for the experimentation of the model. Several datasets were downloaded from the internet and many other pictures were downloaded manually from the internet, and all the images were combined together to form a huge dataset, with which the model could be trained and tested. Later the code was written and corrected of all errors. The model was kept to be trained, this long process took several hours, and after testing the model, it was finally ready.
