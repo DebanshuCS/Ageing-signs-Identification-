@@ -1,5 +1,17 @@
 # Ageing-signs-Identification
 
+### Dataset: 
+
+This dataset consist of different parameters such as -
+
+dark spots on face
+puffy eyes
+wrinkles on face
+
+All the parameters were studyed carefull and were related to ageing. The images might contain some other images also you have to preprocess it localize different signs of ageing.
+
+[Google drive link for Dataset]:[https://drive.google.com/drive/folders/1cqlYEISDwmr1s7DVXPsgraBLWAxdQcd8?usp=share_link]
+
 ## Introduction:
 The project was to develop a model to classify and localize different signs of ageing such as puffy eyes, wrinkles, dark spots, etc on the face. This project required knowledge of various domains and the use of image processing techniques to process the images as per requirements. The model was developed using Machine Learning, Artificial Intelligence and Deep Learning and hence we were able to detect dark spots, puffy eyes and wrinkles on images in order to understand ageing signs.
 
