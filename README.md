@@ -3,13 +3,10 @@
 ### Dataset: 
 
 This dataset consist of different parameters such as -
-
-dark spots on face
-puffy eyes
+dark spots on face,
+puffy eyes and 
 wrinkles on face
-
 All the parameters were studyed carefull and were related to ageing. The images might contain some other images also you have to preprocess it localize different signs of ageing.
-
 [Google drive link for Dataset]:[https://drive.google.com/drive/folders/1cqlYEISDwmr1s7DVXPsgraBLWAxdQcd8?usp=share_link]
 
 ## Introduction:
